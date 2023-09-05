@@ -1,0 +1,36 @@
+h1 {
+    text-align:center;
+    background-color: rgb(219, 199, 217);
+}
+h3{
+    font-style: oblique;
+    background-color: rgb(170, 170, 206);
+}
+
+p {
+    text-align: center;
+    font-size: medium;
+}
+strong {
+    font-size: larger;
+}
+
+body {
+    background-color: rgb(194, 178, 209);
+}
+.imagem1 {
+    width: 70px;
+}
+panda {
+    background-color: forestgreen
+
+}
+.brilho {
+   color: aqua;
+    font-style: italic
+}
+.lista {
+        display: inline-block;
+        padding: 5%;
+        margin-right: 10%;
+    }
