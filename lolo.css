@@ -1,10 +1,14 @@
 h1 {
     text-align:center;
-    background-color: rgb(219, 199, 217);
+    background-color: rgb(112, 93, 65);
+}
+h2{
+    text-align: center;
 }
 h3{
     font-style: oblique;
-    background-color: rgb(170, 170, 206);
+    background-color: blue;
+    text-align: center;
 }
 
 p {
@@ -16,12 +20,16 @@ strong {
 }
 
 body {
-    background-color: rgb(194, 178, 209);
+    background-color: blueviolet;
 }
 .imagem1 {
-    width: 70px;
+    width: 200px;
 }
-panda {
+.imagemcentralizada {
+ text-align: center;
+}
+
+.unicornio {
     background-color: forestgreen
 
 }
@@ -34,3 +42,10 @@ panda {
         padding: 5%;
         margin-right: 10%;
     }
+
+nav a{
+    text-transform: uppercase;
+    color: blanchedalmond;
+    font-weight: 300;
+    font-size: 100%;
+}
